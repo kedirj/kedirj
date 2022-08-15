@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kedirj
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Software Engeneering
-- 💞️ I’m looking to collaborate on akx
+- 💞️ I’m looking to collaborate on alx software engeneering
 - 📫 How to reach me ...
 kedirkeb5@gmail.com
 <!---
